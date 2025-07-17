@@ -6,12 +6,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhChinh12&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KhanhChinh12/count.svg?"  />
-</div>
-
-## 
 ###
 
 <picture>
